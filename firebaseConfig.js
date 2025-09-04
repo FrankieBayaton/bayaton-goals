@@ -1,17 +1,17 @@
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
-import { getFirestore } from "firebase/firestore/lite";
+import { getFirestore } from "firebase/firestore";
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCIwaCITWq_W7YngRBis0nOj_LtJiIRE8A",
-  authDomain: "bayaton-mobile-app---tracker.firebaseapp.com",
-  projectId: "bayaton-mobile-app---tracker",
-  storageBucket: "bayaton-mobile-app---tracker.firebasestorage.app",
-  messagingSenderId: "496154610643",
-  appId: "1:496154610643:web:607d219b679be636e6bd26"
+  apiKey: "AIzaSyCgll4pbQbAgluEOvbcYZT6Tn1hUrZwK94",
+  authDomain: "mobile-app-tracker-bayaton.firebaseapp.com",
+  projectId: "mobile-app-tracker-bayaton",
+  storageBucket: "mobile-app-tracker-bayaton.firebasestorage.app",
+  messagingSenderId: "260963063097",
+  appId: "1:260963063097:web:0afe8f59b336b3afb484e8"
 };
 
 // Initialize Firebase
